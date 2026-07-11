@@ -113,11 +113,11 @@ int main(void) {
 	setvbuf(stdout, NULL, _IONBF, 0);
 	setvbuf(stdin, NULL, _IONBF, 0);
 	
-	/* for (i = 0; i < 5; i++) {
+	for (i = 0; i < 5; i++) {
 		printf("hello world\r\n");
-	} */
+	}
 	
-	printf("Press any key to begin:\r\n");
+	/* printf("Press any key to begin:\r\n");
 	
 	seed = getchar();
 	srand(seed);
@@ -146,7 +146,7 @@ int main(void) {
 		} else {
 			printf("\r\nIncorrect. The answer was %d", correct_answer);
 		}
-	}
+	} */
 
 }
 
