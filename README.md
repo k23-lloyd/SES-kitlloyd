@@ -2,6 +2,8 @@
 # SES Coursework Resit
 
 I have attempted worksheets 2 through 7.  
+The video demonstrations exceed Github's max file size, so this link will take you to them:
+- [View Demonstration Videos on OneDrive](https://uweacuk-my.sharepoint.com/:f:/g/personal/kit2_lloyd_live_uwe_ac_uk/IgAtSk1Ct_wUQbec_QXG8PxwAVjJqharLTLNn7W9he3ljgA)
   
 
 ## Worksheet 2
